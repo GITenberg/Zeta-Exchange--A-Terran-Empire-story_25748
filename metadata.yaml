@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7375'
     url: http://www.gutenberg.org/2009/agents/7375
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25748#Zeta-Exchange--A-Terran-Empire-story
 gutenberg_issued: '2008-06-09'
 gutenberg_type: Text
 identifiers:
