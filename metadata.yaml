@@ -1,0 +1,24 @@
+_repo: Zeta-Exchange--A-Terran-Empire-story_25748
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Ann
+    gutenberg_agent_id: '7375'
+    url: http://www.gutenberg.org/2009/agents/7375
+description: ''
+gutenberg_issued: '2008-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25748'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: 'Zeta Exchange: A Terran Empire story'
+url: http://www.gutenberg.org/ebooks/25748
